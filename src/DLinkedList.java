@@ -1,6 +1,7 @@
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
+//DLinkedList implementation from my CS2114 class
 public class DLinkedList<T> {
 
 	private static class Node<T> {
