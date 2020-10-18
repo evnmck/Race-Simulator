@@ -17,6 +17,7 @@ public class ProjectRunner {
 			list.add(new Player(name));
 
 		}
+		
 		scan.close();
 		System.out.println();
 
